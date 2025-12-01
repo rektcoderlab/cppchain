@@ -117,3 +117,8 @@ Total blocks in chain: 4
 ## License
 
 This project is open source and available under the MIT License.
+
+## Contact
+
+- https://rektcoderlab.com
+- https://x.com/rektcoderlab
